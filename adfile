@@ -4,4 +4,4 @@
 "interstitial":"ca-app-pub-3940256099942544/1033173712"},
 "AppLovin":{"banner":"3f6ec3af82fa39c3","native":"a9b23ab179d9c179","activated":false,"interstitial":"921b50d41836c131"}},
 "Config":{"redirect":false,"more_apps":"https://play.google.com/store/apps/details?id=com.snapchat.android",
-"maintenance":false,"loading_time":3,"redirect_url":"https://www.google.com/","interstitial_interval":3}}
+"maintenance":true,"loading_time":3,"redirect_url":"https://www.google.com/","interstitial_interval":3}}
