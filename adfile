@@ -2,6 +2,6 @@
 "activated":false,"interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"},"AdMob":{"banner":"ca-app-pub-3940256099942544/6300978111",
 "native":"ca-app-pub-3940256099942544/2247696110","activated":false,
 "interstitial":"ca-app-pub-3940256099942544/1033173712"},
-"AppLovin":{"banner":"d8d82f19a7789cb9","native":"a9b23ab179d9c179","activated":true,"interstitial":"d2f17c58bf4302ee"}},
+"AppLovin":{"banner":"31efbc95d4863aac","native":"a3b73a0121daec77","activated":true,"interstitial":"59e6f9f5a6254c32"}},
 "Config":{"redirect":false,"more_apps":"https://play.google.com/store/apps/details?id=com.snapchat.android",
 "maintenance":false,"loading_time":3,"redirect_url":"https://www.google.com/","interstitial_interval":3}}
