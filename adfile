@@ -1,6 +1,6 @@
 {"Ads":{"FAN":{"banner":"1031366028035117_1031371011367952","native":"1031366028035117_1031371198034600",
 "activated":false,"interstitial":"1031366028035117_1031371261367927"},"AdMob":{"banner":"ca-app-pub-3940256099942544/6300978111",
-"native":"ca-app-pub-3940256099942544/2247696110","activated":true,
+"native":"ca-app-pub-3940256099942544/2247696110","activated":false,
 "interstitial":"ca-app-pub-3940256099942544/1033173712"},
 "AppLovin":{"banner":"31efbc95d4863aac","native":"a3b73a0121daec77","activated":false,"interstitial":"59e6f9f5a6254c32"}},
 "Config":{"redirect":true,"more_apps":"https://play.google.com/store/apps/details?id=com.snapchat.android",
